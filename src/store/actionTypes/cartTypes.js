@@ -1,0 +1,2 @@
+export const TOGGLE_MENU = 'TOGGLE_MENU';
+export const UPDATE_CART_PRODUCTS = 'UPDATE_CART_PRODUCTS';
